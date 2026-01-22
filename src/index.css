@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-body text-charcoal bg-sand-light antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+/* Custom component styles */
+@layer components {
+  .btn-primary {
+    @apply bg-terracotta hover:bg-terracotta-dark text-sand-light px-6 py-3 rounded-lg font-body font-semibold transition-all duration-300 hover:shadow-lg;
+  }
+  
+  .btn-secondary {
+    @apply bg-mud hover:bg-mud-dark text-sand-light px-6 py-3 rounded-lg font-body font-semibold transition-all duration-300 hover:shadow-lg;
+  }
+  
+  .btn-outline {
+    @apply border-2 border-terracotta text-terracotta hover:bg-terracotta hover:text-sand-light px-6 py-3 rounded-lg font-body font-semibold transition-all duration-300;
+  }
+  
+  .btn-whatsapp {
+    @apply bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-body font-semibold transition-all duration-300 hover:shadow-lg inline-flex items-center gap-2;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-300;
+  }
+  
+  .section-padding {
+    @apply py-16 md:py-20 px-4 md:px-6 lg:px-8;
+  }
+  
+  .container-custom {
+    @apply max-w-7xl mx-auto;
+  }
+}
+
+/* Custom utilities */
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-terracotta to-gold bg-clip-text text-transparent;
+  }
+}

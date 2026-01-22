@@ -1,0 +1,68 @@
+{
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Priya Mehta",
+            "location": "Ahmedabad",
+            "rating": 5,
+            "text": "I ordered a custom mandala piece for my puja room. The craftsmanship is exceptional — every mirror is perfectly placed. Vishwa understood exactly what I wanted and delivered beyond expectations. Highly recommend!",
+            "date": "2024-01-15"
+        },
+        {
+            "id": 2,
+            "name": "Rahul Sharma",
+            "location": "Mumbai",
+            "rating": 5,
+            "text": "Bought the peacock art as a housewarming gift for my parents. They absolutely loved it! The packaging was secure and the delivery was faster than expected. The quality speaks for itself.",
+            "date": "2024-01-10"
+        },
+        {
+            "id": 3,
+            "name": "Anita Kapoor",
+            "location": "Ahmedabad",
+            "rating": 5,
+            "text": "This is my third purchase from Lippan Art Studio. The traditional wall art now hangs in my living room and everyone who visits asks about it. Vishwa's work is authentic and beautiful.",
+            "date": "2024-01-05"
+        },
+        {
+            "id": 4,
+            "name": "Vikram Patel",
+            "location": "Surat",
+            "rating": 5,
+            "text": "Got a custom nameplate made with our family name. The attention to detail is incredible — from the clay texture to the mirror placement. Our neighbors now want one too!",
+            "date": "2023-12-28"
+        },
+        {
+            "id": 5,
+            "name": "Neha Desai",
+            "location": "Vadodara",
+            "rating": 5,
+            "text": "Ordered the wedding gift set for my sister's wedding. The presentation was gorgeous and the art pieces were stunning. It was the most appreciated gift at the wedding. Thank you, Vishwa!",
+            "date": "2023-12-20"
+        },
+        {
+            "id": 6,
+            "name": "Karan Singh",
+            "location": "Delhi",
+            "rating": 5,
+            "text": "First time buying Lippan art and I'm amazed. The traditional technique combined with modern aesthetics fits perfectly in my contemporary apartment. Worth every rupee!",
+            "date": "2023-12-15"
+        },
+        {
+            "id": 7,
+            "name": "Meera Joshi",
+            "location": "Pune",
+            "rating": 5,
+            "text": "The Diwali rangoli art piece is absolutely stunning. It catches light beautifully and has become a permanent festive decoration in our home. So much better than temporary rangoli!",
+            "date": "2023-11-12"
+        },
+        {
+            "id": 8,
+            "name": "Amit Trivedi",
+            "location": "Ahmedabad",
+            "rating": 5,
+            "text": "Visited the studio in Khokhra to see the art in person. Vishwa is so passionate about her craft. Ended up ordering three pieces for different rooms. Exceptional quality and service!",
+            "date": "2023-11-01"
+        }
+    ]
+}

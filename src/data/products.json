@@ -1,0 +1,195 @@
+{
+    "products": [
+        {
+            "id": "lippan-wall-001",
+            "name": "Traditional Lippan Wall Art",
+            "slug": "traditional-lippan-wall-art",
+            "category": "wall-art",
+            "description": "A timeless piece that captures the essence of Kutchi heritage. Hand-sculpted with natural clay and adorned with carefully placed mirrors, this wall art creates a mesmerizing play of light in any room. Perfect for living rooms, entryways, or as a statement piece above your sofa.",
+            "shortDescription": "Classic geometric patterns with mirror work",
+            "price": 2500,
+            "currency": "INR",
+            "image": "https://images.unsplash.com/photo-1582562124811-c09040d0a901?w=600",
+            "images": [
+                "https://images.unsplash.com/photo-1582562124811-c09040d0a901?w=600",
+                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600"
+            ],
+            "dimensions": "12\" x 12\"",
+            "tags": [
+                "bestseller",
+                "traditional"
+            ],
+            "availability": "in-stock",
+            "customizable": true
+        },
+        {
+            "id": "lippan-mandala-002",
+            "name": "Mandala Mirror Art",
+            "slug": "mandala-mirror-art",
+            "category": "wall-art",
+            "description": "Inspired by sacred geometry, this mandala design radiates tranquility and balance. Each concentric circle is handcrafted with precision, with mirrors positioned to create a stunning sunburst effect. A meaningful addition to meditation spaces, bedrooms, or yoga corners.",
+            "shortDescription": "Peaceful mandala with radiant mirror work",
+            "price": 3200,
+            "currency": "INR",
+            "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600",
+            "images": [
+                "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600"
+            ],
+            "dimensions": "16\" x 16\"",
+            "tags": [
+                "popular",
+                "mandala"
+            ],
+            "availability": "in-stock",
+            "customizable": true
+        },
+        {
+            "id": "lippan-peacock-003",
+            "name": "Peacock Lippan Art",
+            "slug": "peacock-lippan-art",
+            "category": "wall-art",
+            "description": "The national bird of India comes alive in this stunning piece. Every feather is meticulously crafted with mirrors catching light like the iridescent eyes of a peacock's plume. A celebration of Indian heritage and natural beauty that transforms any wall into a gallery.",
+            "shortDescription": "Majestic peacock with shimmering feather details",
+            "price": 4500,
+            "currency": "INR",
+            "image": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600",
+            "images": [
+                "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600"
+            ],
+            "dimensions": "18\" x 24\"",
+            "tags": [
+                "premium",
+                "peacock"
+            ],
+            "availability": "in-stock",
+            "customizable": true
+        },
+        {
+            "id": "lippan-nameplate-004",
+            "name": "Custom Nameplate",
+            "slug": "custom-nameplate",
+            "category": "home-decor",
+            "description": "Welcome guests with a touch of tradition. Your family name beautifully displayed within a handcrafted Lippan art border. Each nameplate is custom-made with your preferred text, making it a unique identifier for your home that combines heritage with personalization.",
+            "shortDescription": "Personalized nameplate with Lippan border",
+            "price": 1800,
+            "currency": "INR",
+            "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=600",
+            "images": [
+                "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=600"
+            ],
+            "dimensions": "8\" x 12\"",
+            "tags": [
+                "custom",
+                "nameplate"
+            ],
+            "availability": "made-to-order",
+            "customizable": true
+        },
+        {
+            "id": "lippan-frame-005",
+            "name": "Decorative Mirror Frame",
+            "slug": "decorative-mirror-frame",
+            "category": "home-decor",
+            "description": "Transform an ordinary mirror into a work of art. This elegant frame features intricate Lippan patterns that frame your reflection in traditional beauty. Perfect for dressing areas, bathrooms, or as a decorative accent in hallways.",
+            "shortDescription": "Elegant mirror frame with mud work border",
+            "price": 2800,
+            "currency": "INR",
+            "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=600",
+            "images": [
+                "https://images.unsplash.com/photo-1618220179428-22790b461013?w=600"
+            ],
+            "dimensions": "14\" diameter",
+            "tags": [
+                "mirror",
+                "decor"
+            ],
+            "availability": "in-stock",
+            "customizable": false
+        },
+        {
+            "id": "lippan-gift-006",
+            "name": "Wedding Gift Set",
+            "slug": "wedding-gift-set",
+            "category": "gifts",
+            "description": "A thoughtful gift for new beginnings. This curated set includes two complementary Lippan art pieces that symbolize harmony and togetherness. Beautifully packaged in a gift box with a personalized message card. Perfect for weddings, housewarmings, or anniversaries.",
+            "shortDescription": "Pair of matching art pieces for gifting",
+            "price": 3500,
+            "currency": "INR",
+            "image": "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?w=600",
+            "images": [
+                "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?w=600"
+            ],
+            "dimensions": "10\" x 10\" each",
+            "tags": [
+                "gift",
+                "wedding"
+            ],
+            "availability": "in-stock",
+            "customizable": true
+        },
+        {
+            "id": "lippan-diwali-007",
+            "name": "Festive Rangoli Art",
+            "slug": "festive-rangoli-art",
+            "category": "gifts",
+            "description": "Celebrate festivals in style with this permanent Lippan rangoli. Unlike traditional powder rangoli, this piece stays beautiful year after year. Featuring auspicious diya and floral motifs, it's perfect for Diwali, Navratri, or any celebration.",
+            "shortDescription": "Permanent rangoli for festive occasions",
+            "price": 2200,
+            "currency": "INR",
+            "image": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=600",
+            "images": [
+                "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=600"
+            ],
+            "dimensions": "12\" x 12\"",
+            "tags": [
+                "festive",
+                "diwali"
+            ],
+            "availability": "in-stock",
+            "customizable": false
+        },
+        {
+            "id": "lippan-clock-008",
+            "name": "Lippan Wall Clock",
+            "slug": "lippan-wall-clock",
+            "category": "home-decor",
+            "description": "Where art meets utility. This functional wall clock is surrounded by beautiful Lippan work, making every glance at the time a moment of appreciation. Features a silent quartz movement so beauty doesn't come with noise. A perfect blend of tradition and practicality.",
+            "shortDescription": "Functional art with silent clock mechanism",
+            "price": 3800,
+            "currency": "INR",
+            "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=600",
+            "images": [
+                "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=600"
+            ],
+            "dimensions": "14\" diameter",
+            "tags": [
+                "clock",
+                "functional"
+            ],
+            "availability": "in-stock",
+            "customizable": false
+        }
+    ],
+    "categories": [
+        {
+            "id": "all",
+            "name": "All",
+            "icon": "grid"
+        },
+        {
+            "id": "wall-art",
+            "name": "Wall Art",
+            "icon": "frame"
+        },
+        {
+            "id": "home-decor",
+            "name": "Home Decor",
+            "icon": "home"
+        },
+        {
+            "id": "gifts",
+            "name": "Gifting Items",
+            "icon": "gift"
+        }
+    ]
+}
